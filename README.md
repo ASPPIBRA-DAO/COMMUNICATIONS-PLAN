@@ -1,6 +1,4 @@
-# COMMUNICATIONS-PLAN
-
-# Relatório: Organização do Setor de Comunicação da ASPPIBRA-DAO
+# COMMUNICATIONS-PLAN ASPPIBRA-DAO
 
 ## Plano de Comunicação
 
@@ -15,16 +13,16 @@
 
 ## Orçamento para a Equipe de Comunicação
 
-| Cargo                     | Quantidade | Salário Médio (R$) | Custo Total (R$)    |
-|---------------------------|------------|---------------------|---------------------|
-| Gerente de Comunicação    | 1          | 0.000               | 0.000               |
-| Social Media Manager      | 1          | 0.000               | 0.000               |
-| Designer Gráfico          | 2          | 0.500               | 0.000               |
-| Redator de Conteúdo       | 3          | 0.000               | 0.000               |
-| Analista de Mídias Pagas  | 1          | 0.000               | 0.000               |
-| **Total Salários**        |            |                     | **00.000**          |
-| **Orçamento para ADS**    |            |                     | **0.000**           |
-| **Total Geral**           |            |                     | **00.000**          |
+| Cargo                     | Quantidade | Salário Médio (R$) | Royalties (R$) | Custo Total (R$)    |
+|---------------------------|------------|---------------------|----------------|---------------------|
+| Gerente de Comunicação    | 1          | 0.000               | 0.000          | 0.000               |
+| Social Media Manager      | 1          | 0.000               | 0.000          | 0.000               |
+| Designer Gráfico          | 2          | 0.000               | 0.000          | 0.000               |
+| Redator de Conteúdo       | 3          | 0.000               | 0.000          | 0.000               |
+| Analista de Mídias Pagas  | 1          | 0.000               | 0.000          | 0.000               |
+| **Total Salários**        |            |                     |                | **0.000**           |
+| **Orçamento para ADS**    |            |                     |                | **0.000**           |
+| **Total Geral**           |            |                     |                | **0.000**           |
 
 ## Descrição
 
