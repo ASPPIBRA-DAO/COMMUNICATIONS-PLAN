@@ -17,14 +17,14 @@
 
 | Cargo                     | Quantidade | Salário Médio (R$) | Custo Total (R$)    |
 |---------------------------|------------|---------------------|---------------------|
-| Gerente de Comunicação    | 1          | 10.000              | 10.000              |
-| Social Media Manager      | 1          | 5.000               | 5.000               |
-| Designer Gráfico          | 1          | 4.500               | 4.500               |
-| Redator de Conteúdo       | 1          | 4.000               | 4.000               |
-| Analista de Mídias Pagas  | 1          | 5.000               | 5.000               |
-| **Total Salários**        |            |                     | **28.500**          |
-| **Orçamento para ADS**    |            |                     | **6.500**           |
-| **Total Geral**           |            |                     | **35.000**          |
+| Gerente de Comunicação    | 1          | 0.000               | 0.000               |
+| Social Media Manager      | 1          | 0.000               | 0.000               |
+| Designer Gráfico          | 2          | 0.500               | 0.000               |
+| Redator de Conteúdo       | 3          | 0.000               | 0.000               |
+| Analista de Mídias Pagas  | 1          | 0.000               | 0.000               |
+| **Total Salários**        |            |                     | **00.000**          |
+| **Orçamento para ADS**    |            |                     | **0.000**           |
+| **Total Geral**           |            |                     | **00.000**          |
 
 ## Descrição
 
