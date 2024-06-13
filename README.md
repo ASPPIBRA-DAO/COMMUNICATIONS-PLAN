@@ -1,4 +1,4 @@
-# COMMUNICATIONS-PLAN ASPPIBRA-DAO
+# COMMUNICATIONS PLAN ASPPIBRA-DAO
 
 ## Plano de Comunicação
 
@@ -17,12 +17,32 @@
 |---------------------------|------------|---------------------|----------------|---------------------|
 | Gerente de Comunicação    | 1          | 0.000               | 0.000          | 0.000               |
 | Social Media Manager      | 1          | 0.000               | 0.000          | 0.000               |
-| Designer Gráfico          | 2          | 0.000               | 0.000          | 0.000               |
-| Redator de Conteúdo       | 3          | 0.000               | 0.000          | 0.000               |
+| Designer Gráfico          | 3          | 0.000               | 0.000          | 0.000               |
+| Redator de Conteúdo       | 4          | 0.000               | 0.000          | 0.000               |
 | Analista de Mídias Pagas  | 1          | 0.000               | 0.000          | 0.000               |
 | **Total Salários**        |            |                     |                | **0.000**           |
 | **Orçamento para ADS**    |            |                     |                | **0.000**           |
 | **Total Geral**           |            |                     |                | **0.000**           |
+
+## Influenciadores / Criadores de Conteúdo
+
+### Parcerias Propostas
+
+| Nome do Influenciador | Canal/Plataforma   | Tipo de Conteúdo                | Número de Seguidores | Parceria Proposta                    |
+|-----------------------|--------------------|---------------------------------|----------------------|--------------------------------------|
+| Ana Oliveira          | Instagram          | Moda e Estilo                   | 150.000              | Post patrocinado                     |
+| Lucas Santos          | YouTube            | Tecnologia e Reviews            | 500.000              | Vídeo de review de produto           |
+| Julia Lima            | TikTok             | Comédia e Entretenimento        | 1.000.000            | Vídeo de desafio                     |
+| Pedro Fernandes       | Blog               | Viagens e Lifestyle             | 50.000               | Artigo patrocinado                   |
+| Mariana Silva         | Twitter            | Atualidades e Opinião          | 100.000              | Tweet promocional                    |
+
+### Como Contribuir
+
+- Fique à vontade para sugerir alterações ou melhorias no plano de comunicação.
+- Se você é um influenciador interessado em colaborar, entre em contato conosco através dos detalhes fornecidos.
+- Para questões relacionadas ao plano ou parcerias, por favor, envie um e-mail para [contato@empresa.com](mailto:@easppibra.com.br).
+
+Este documento está sujeito a atualizações conforme a evolução das estratégias de comunicação e parcerias da empresa. Obrigado por explorar nosso plano de comunicação e parcerias!
 
 ## Descrição
 
