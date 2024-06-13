@@ -4,14 +4,14 @@
 
 ## Tabela 1: Plano de Comunicação
 
-| Canal     | Tipo de Conteúdo    | Frequência de Postagem | Responsável  | Ferramentas Utilizadas             | Datas Importantes             | Observações               |
-|-----------|---------------------|------------------------|--------------|------------------------------------|-------------------------------|---------------------------|
-| LinkedIn  | Artigos e Notícias  | 3x por semana          | João Silva   | Canva, Hootsuite                   | 15/06: Anúncio de Evento      |                           |
-| Instagram | Fotos e Stories     | Diária                 | Maria Souza  | Canva, Buffer                      | 01/07: Lançamento de Campanha |                           |
-| Twitter   | Atualizações Rápidas| 2x por dia             | Paulo Lima   | TweetDeck, Hootsuite               |                               |                           |
-| Blog      | Artigos e Posts     | 1x por semana          | Ana Pereira  | WordPress, Grammarly               |                               |                           |
-| TikTok    | Vídeos Curtos       | 2x por semana          | Carla Santos | CapCut, InShot                     |                               |                           |
-| YouTube   | Vídeos Longos       | 1x a cada 2 semanas    | Bruno Costa  | Adobe Premiere, TubeBuddy          |                               |                           |
+| Canal     | Tipo de Conteúdo    | Frequência de Postagem | Responsável  | Ferramentas Utilizadas             |
+|-----------|---------------------|------------------------|--------------|------------------------------------|
+| LinkedIn  | Artigos e Notícias  | 3x por semana          | João Silva   | Canva, Hootsuite                   |
+| Instagram | Fotos e Stories     | Diária                 | Maria Souza  | Canva, Buffer                      |
+| Twitter   | Atualizações Rápidas| 2x por dia             | Paulo Lima   | TweetDeck, Hootsuite               |
+| Blog      | Artigos e Posts     | 1x por semana          | Ana Pereira  | WordPress, Grammarly               |
+| TikTok    | Vídeos Curtos       | 2x por semana          | Carla Santos | CapCut, InShot                     |
+| YouTube   | Vídeos Longos       | 1x a cada 2 semanas    | Bruno Costa  | Adobe Premiere, TubeBuddy          |
 
 ## Tabela 2: Orçamento para a Equipe de Comunicação
 
