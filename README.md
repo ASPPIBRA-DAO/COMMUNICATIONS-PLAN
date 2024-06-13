@@ -2,18 +2,18 @@
 
 # Relatório: Organização do Setor de Comunicação da ASPPIBRA-DAO
 
-## Tabela 1: Plano de Comunicação
+## Plano de Comunicação
 
 | Canal     | Tipo de Conteúdo    | Frequência de Postagem | Responsável  | Ferramentas Utilizadas             |
 |-----------|---------------------|------------------------|--------------|------------------------------------|
 | LinkedIn  | Artigos e Notícias  | 3x por semana          | João Silva   | Canva, Hootsuite                   |
 | Instagram | Fotos e Stories     | Diária                 | Maria Souza  | Canva, Buffer                      |
 | Twitter   | Atualizações Rápidas| 2x por dia             | Paulo Lima   | TweetDeck, Hootsuite               |
-| Blog      | Artigos e Posts     | 1x por semana          | Ana Pereira  | WordPress, Grammarly               |
-| TikTok    | Vídeos Curtos       | 2x por semana          | Carla Santos | CapCut, InShot                     |
-| YouTube   | Vídeos Longos       | 1x a cada 2 semanas    | Bruno Costa  | Adobe Premiere, TubeBuddy          |
+| Blog      | Artigos e Posts     | Diária                 | Ana Pereira  | WordPress, Grammarly               |
+| TikTok    | Vídeos Curtos       | 3x por semana          | Carla Santos | CapCut, InShot                     |
+| YouTube   | Vídeos Longos       | 1x por semanas    | Bruno Costa  | Adobe Premiere, TubeBuddy          |
 
-## Tabela 2: Orçamento para a Equipe de Comunicação
+## Orçamento para a Equipe de Comunicação
 
 | Cargo                     | Quantidade | Salário Médio (R$) | Custo Total (R$)    |
 |---------------------------|------------|---------------------|---------------------|
