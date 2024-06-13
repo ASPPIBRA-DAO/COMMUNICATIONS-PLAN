@@ -28,13 +28,13 @@
 
 ### Parcerias Propostas
 
-| Nome do Influenciador | Canal/Plataforma   | Tipo de Conteúdo                | Número de Seguidores | Parceria Proposta                    |
-|-----------------------|--------------------|---------------------------------|----------------------|--------------------------------------|
-| Ana Oliveira          | Instagram          | Moda e Estilo                   | 150.000              | Post patrocinado                     |
-| Lucas Santos          | YouTube            | Tecnologia e Reviews            | 500.000              | Vídeo de review de produto           |
-| Julia Lima            | TikTok             | Comédia e Entretenimento        | 1.000.000            | Vídeo de desafio                     |
-| Pedro Fernandes       | Blog               | Viagens e Lifestyle             | 50.000               | Artigo patrocinado                   |
-| Mariana Silva         | Twitter            | Atualidades e Opinião          | 100.000              | Tweet promocional                    |
+| Canal/Plataforma   | Tipo de Conteúdo                | Número de Seguidores | Parceria Proposta                    | Valor por Clique (CPC) | Valor por Visualização (CPV) |
+|--------------------|---------------------------------|----------------------|--------------------------------------|------------------------|------------------------------|
+| Instagram          | Moda e Estilo                   | 150.000              | Post patrocinado                     | R$ 0,50                 | N/A                          |
+| YouTube            | Tecnologia e Reviews            | 500.000              | Vídeo de review de produto           | R$ 0,40                 | R$ 0,10                      |
+| TikTok             | Comédia e Entretenimento        | 1.000.000            | Vídeo de desafio                     | R$ 0,30                 | R$ 0,05                      |
+| Blog               | Viagens e Lifestyle             | 50.000               | Artigo patrocinado                   | R$ 0,20                 | N/A                          |
+| Twitter            | Atualidades e Opinião           | 100.000              | Tweet promocional                    | R$ 0,25                 | N/A                          |
 
 ### Como Contribuir
 
